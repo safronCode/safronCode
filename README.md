@@ -5,8 +5,8 @@
 </div>
 
 ## 📜 About Me
-- 🔭 I’m currently working on **[my CourseWork](https://github.com/safronCode/amcp_GTaOR)**
-- 🌱 I’m currently learning **Django framework**
+- 🔭 I’m currently working on **[my CourseWork](https://github.com/safronCode/tgbot-voicerelay)**
+- 🌱 Now I`m learning **Django framework**, **Docker** & **DevOps**
 - 💬 Ask me about **Math**
 - ⚡ Fun fact: **My superpower is to write code that works, although I do not know why)**
 
